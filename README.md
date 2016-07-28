@@ -142,7 +142,7 @@ private void startShakeByPropertyAnim(View view, float scaleSmall, float scaleLa
 
 ![](http://upload-images.jianshu.io/upload_images/1432874-98f12aa520dd60d0.gif?imageMogr2/auto-orient/strip)
 
-代码地址：https://github.com/zhenghuiy/ShakeAnimationDemo
+代码地址：https://github.com/2402091500/ShakeAnimationDemo
 
 # 参考资料
 
